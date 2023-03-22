@@ -1,0 +1,37 @@
+#EXTINF:-1 tvg-id="DirectoalGrano.pe" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWFMArlfIF8GLiSkceszp5_gYN1eKffUzIIDIaP8g=s88-c-k-c0x00ffffff-no-rj" group-title="Noticias",DirectoalGrano.pe
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSaLhuderRCuuPYmNInzLIw/live
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="General",Latina
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/317
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="Noticias" tvg-name="Exitosa Noticias Perú",Exitosa Noticias Perú
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_2LGUNkOJ0ajI4D1dO9nTnwoWgfBpKMGKx_GQ=s88-c-k-c0x00ffffff-no-rj" group-title="General",America TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/780
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="General" tvg-name="Panamericana Perú",Panamericana Perú
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="General" tvg-name="TV Perú",TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Noticias" tvg-name="TV Perú Noticias",TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="General",TV PERU INTERNACIONAL
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Noticias",ATV+ Noticias (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal IPe Perú",Canal IPe Perú
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE | CANAL N HD" tvg-logo="http://castlempire.site:8080/images/7b52e38ce2ee446335d311553bffffb6.jpg" group-title="Peru",PE | CANAL N HD
+http://castlempire.site:8080/UserTest3Octubre_00b/FskXxRJQ3Ys7/244084
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/willaxtv/picture?width=320&height=320" group-title="General",Willax (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+#EXTINF:-1 tvg-id="PBO.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/PBOPeru/picture?width=320&height=320" group-title="Noticias",PBO Digital (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live
+#EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/justiciatv/picture?width=320&height=320" group-title="Noticias",JusticiaTV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwsURxTXqGqijgu98ndod3A/live
+#EXTINF:-1 channel-id="" tvg-chno="" tvg-id="Congreso.pe" tvg-name="Congreso TV" tvg-logo="https://i.imgur.com/qlWUuAm.png" group-title="Noticias",Congreso TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRepúblicadelPerúTVenvivo/live
