@@ -1,16 +1,6 @@
 #EXTINF:-1 tvg-id="DirectoalGrano.pe" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWFMArlfIF8GLiSkceszp5_gYN1eKffUzIIDIaP8g=s88-c-k-c0x00ffffff-no-rj" group-title="Noticias",DirectoalGrano.pe
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSaLhuderRCuuPYmNInzLIw/live
 
-#EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="General",Latina
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/317
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="Noticias" tvg-name="Exitosa Noticias Perú",Exitosa Noticias Perú
-https://cu.onliv3.com/livevd1/user2.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_2LGUNkOJ0ajI4D1dO9nTnwoWgfBpKMGKx_GQ=s88-c-k-c0x00ffffff-no-rj" group-title="General",America TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/780
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="General" tvg-name="Panamericana Perú",Panamericana Perú
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="General" tvg-name="TV Perú",TV Perú
