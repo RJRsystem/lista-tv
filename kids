@@ -1,27 +1,32 @@
-#EXTINF:-1 tvg-id="DirectoalGrano.pe" tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWFMArlfIF8GLiSkceszp5_gYN1eKffUzIIDIaP8g=s88-c-k-c0x00ffffff-no-rj" group-title="Noticias",DirectoalGrano.pe
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSaLhuderRCuuPYmNInzLIw/live
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/aw.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/bg.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/cl.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ge.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/il.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/ir.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/kz.xml,https://iptv-org.github.io/epg/guides/lb.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/pk.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/py.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tw.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml"
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="General" tvg-name="Panamericana Perú",Panamericana Perú
-https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg" group-title="Peru",PE | Latina
+http://castlempire.site:8080/UserTest5Octubre_00i/p3QcBkFxLzkZ/170125
+#EXTINF:-1 tvg-id="" tvg-name="PE | Latina HD" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg" group-title="Peru",PE | Latina HD
+http://castlempire.site:8080/UserTest1Octubre_00i/fTQHy3hQDtjs/170126
+#EXTINF:-1 tvg-id="" tvg-name="PE |  America TV HD OPC 3" tvg-logo="http://castlempire.site:8080/images/8b80d6e003102a42756bc74187829005.png" group-title="Peru",PE |  America TV HD OPC 3
+http://castlempire.site:8080/UserTest3Octubre_00i/FskXxRJQ3Ys7/207527
+#EXTINF:-1 tvg-id="" tvg-name="PE | America TV FHD OPC 1" tvg-logo="http://castlempire.site:8080/images/239481c6c4bd8ce2cd07b4bf83bbb48b.png" group-title="Peru",PE | America TV FHD OPC 1
+http://castlempire.site:8080/UserTest5Octubre_00i/p3QcBkFxLzkZ/207528
+#EXTINF:-1 tvg-id="Food Network.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/editorial/homepage/fn-feature.jpg.rend.hgtvcom.616.347.suffix/1474463768097.jpeg" group-title="General",Food Network
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/961
+#EXTINF:-1 tvg-id="" tvg-name="PE | America TV HD" tvg-logo="http://castlempire.site:8080/images/8b80d6e003102a42756bc74187829005.png" group-title="Peru",PE | America TV HD
+http://castlempire.site:8080/UserTest1Octubre_00i/fTQHy3hQDtjs/170106
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="General" tvg-name="TV Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Noticias" tvg-name="TV Perú Noticias",TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oaxSwdU.png" group-title="General",TV PERU INTERNACIONAL
-http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (480p) [Not 24/7]
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Noticias",ATV+ Noticias (480p) [Not 24/7]
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal IPe Perú",Canal IPe Perú
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | CANAL N HD" tvg-logo="http://castlempire.site:8080/images/7b52e38ce2ee446335d311553bffffb6.jpg" group-title="Peru",PE | CANAL N HD
-http://castlempire.site:8080/UserTest3Octubre_00b/FskXxRJQ3Ys7/244084
-#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/willaxtv/picture?width=320&height=320" group-title="General",Willax (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
-#EXTINF:-1 tvg-id="PBO.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/PBOPeru/picture?width=320&height=320" group-title="Noticias",PBO Digital (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live
-#EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/justiciatv/picture?width=320&height=320" group-title="Noticias",JusticiaTV [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwsURxTXqGqijgu98ndod3A/live
-#EXTINF:-1 channel-id="" tvg-chno="" tvg-id="Congreso.pe" tvg-name="Congreso TV" tvg-logo="https://i.imgur.com/qlWUuAm.png" group-title="Noticias",Congreso TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRepúblicadelPerúTVenvivo/live
+#EXTINF:-1 tvg-id="" tvg-name="PE | America TV HD OPC 2" tvg-logo="http://castlempire.site:8080/images/8b80d6e003102a42756bc74187829005.png" group-title="Peru",PE | America TV HD OPC 2
+http://castlempire.site:8080/UserTest2Octubre_00i/bqCs7jw4KQJa/207526
+#EXTINF:-1 tvg-id="" tvg-name="PE | ATV" tvg-logo="http://castlempire.site:8080/images/e3c43621c46a3070fbbbb521648c8f58.jpg" group-title="Peru",PE | ATV
+http://castlempire.site:8080/UserTest4Octubre_00i/uek4neVNWyxE/170107
+#EXTINF:-1 tvg-id="" tvg-name="PE | America TV HD OPC 2" tvg-logo="http://castlempire.site:8080/images/8b80d6e003102a42756bc74187829005.png" group-title="Peru",PE | America TV HD OPC 2
+http://castlempire.site:8080/UserTest3Octubre_00i/FskXxRJQ3Ys7/207529
+#EXTINF:-1 tvg-id="" tvg-name="PE | America TV" tvg-logo="http://castlempire.site:8080/images/8b80d6e003102a42756bc74187829005.png" group-title="Peru",PE | America TV
+http://castlempire.site:8080/UserTest4Octubre_00i/uek4neVNWyxE/170105
+#EXTINF:-1 tvg-id="Disney Channel.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://scontent.faqp5-2.fna.fbcdn.net/v/t1.6435-9/123313466_3402312853197763_700959605776811542_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH3ysA3vwxocY2uYJdpD09AqEO4AkAQgaOoQ7gCQBCBo6oC7sHTfxNlmu1BQCu7D3pK0dt2i1BYQkXE_5GvZdhv&_nc_ohc=PCwhp4jhQmQAX8fg485&_nc_ht=scontent.faqp5-2.fna&oh=00_AfCNBVXW9_oQLXfw3BdYfJidYvgIFi9W-YWc-yYvC0tI_A&oe=6458020D" group-title="General",Disney Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/29
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="General" tvg-name="TV Perú",TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE | ATV HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ATV_HD_2014.svg/revision/latest/scale-to-width-down/250?cb=20210519153124&path-prefix=es" group-title="Peru",PE | ATV HD
+http://castlempire.site:8080/UserTest1Octubre_00i/fTQHy3hQDtjs/170108
