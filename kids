@@ -1,32 +1,32 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/aw.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/bg.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/cl.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ge.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/il.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/ir.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/kz.xml,https://iptv-org.github.io/epg/guides/lb.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/pk.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/py.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tw.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg" group-title="Perú",Latina
-http://castlempire.site:8080/UserTest5Octubre_00i/p3QcBkFxLzkZ/170125
+http://castlempire.site:8080/UserTest5Octubre_00j/p3QcBkFxLzkZ/170125
 #EXTINF:-1 tvg-id="" tvg-name="PE | Latina HD" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg" group-title="Perú",Latina HD
-http://castlempire.site:8080/UserTest1Octubre_00i/fTQHy3hQDtjs/170126
+http://castlempire.site:8080/UserTest1Octubre_00j/fTQHy3hQDtjs/170126
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD OPC 3" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="Perú", América TV HD
-http://castlempire.site:8080/UserTest3Octubre_00i/FskXxRJQ3Ys7/207527
+http://castlempire.site:8080/UserTest3Octubre_00j/FskXxRJQ3Ys7/207527
 #EXTINF:-1 tvg-id="" tvg-name="PE | America TV FHD OPC 1" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="Perú",América TV FHD
-http://castlempire.site:8080/UserTest5Octubre_00i/p3QcBkFxLzkZ/207528
+http://castlempire.site:8080/UserTest4Octubre_00j/uek4neVNWyxE/170105
 #EXTINF:-1 tvg-id="Food Network.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="General",Food Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/961
 #EXTINF:-1 tvg-id="" tvg-name="PE | America TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="Perú",América TV HD
-http://castlempire.site:8080/UserTest1Octubre_00i/fTQHy3hQDtjs/170106
+http://castlempire.site:8080/UserTest5Octubre_00j/p3QcBkFxLzkZ/207528
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="General" tvg-name="TV Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE | America TV HD OPC 2" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="Perú",America TV HD
-http://castlempire.site:8080/UserTest2Octubre_00i/bqCs7jw4KQJa/207526
+http://castlempire.site:8080/UserTest1Octubre_00j/fTQHy3hQDtjs/170106
 #EXTINF:-1 tvg-id="" tvg-name="PE | ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú",ATV
-http://castlempire.site:8080/UserTest4Octubre_00i/uek4neVNWyxE/170107
+http://castlempire.site:8080/UserTest4Octubre_00j/uek4neVNWyxE/170107
 #EXTINF:-1 tvg-id="" tvg-name="PE | America TV HD OPC 2" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="Perú",America TV HD
-http://castlempire.site:8080/UserTest3Octubre_00i/FskXxRJQ3Ys7/207529
+http://castlempire.site:8080/UserTest2Octubre_00j/bqCs7jw4KQJa/207526
 #EXTINF:-1 tvg-id="" tvg-name="PE | America TV" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="Perú",América TV
-http://castlempire.site:8080/UserTest4Octubre_00i/uek4neVNWyxE/170105
+http://castlempire.site:8080/UserTest3Octubre_00j/FskXxRJQ3Ys7/207529
 #EXTINF:-1 tvg-id="Disney Channel.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="General",Disney Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/29
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú" tvg-name="TV Perú",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE | ATV HD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Perú",ATV HD
-http://castlempire.site:8080/UserTest1Octubre_00i/fTQHy3hQDtjs/170108
+http://castlempire.site:8080/UserTest1Octubre_00j/fTQHy3hQDtjs/170108
