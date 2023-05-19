@@ -35,7 +35,7 @@ https://3.ultimate2019.com/stream/hls/427
 #EXTINF:-1 tvg-id="Pantera Rosa" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i0.wp.com/periodistas-es.com/wp-content/uploads/2014/08/Pantera-Rosa.jpg?w=300&ssl=1 " group-title="General",Pantera Rosa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/671
-#EXTINF:-1 tvg-id="Los Picapiedra" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://scontent.faqp5-2.fna.fbcdn.net/v/t39.30808-6/295050124_712505143535075_8851639319842567621_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=cLbpazQ5ZYYAX81n6jC&_nc_zt=23&_nc_ht=scontent.faqp5-2.fna&oh=00_AfB-i7f1dAqRP9xhefzkkhOt9DrwhdinpUa9GHqGyjK1lg&oe=64537355" group-title="General",Los Picapiedra
+#EXTINF:-1 tvg-id="Los Picapiedra" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://e7.pngegg.com/pngimages/317/680/png-clipart-the-flintstones-fred-cartoons-the-flintstones-thumbnail.png" group-title="General",Los Picapiedra
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/669
 
