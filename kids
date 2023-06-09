@@ -23,7 +23,7 @@ https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PE | ATV" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV
 https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | ATV+" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV HD
+#EXTINF:-1 tvg-id="" tvg-name="PE | ATV+" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="General",ATV+
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="General",Telemundo
