@@ -1,12 +1,12 @@
 #EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg" group-title="Perú",Latina
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latina HD" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg" group-title="Perú",Latina HD
-http://castlempire.site:8080/UserTest1Octubre_00p/fTQHy3hQDtjs/170126
+http://castlempire.site:8080/UserTest4Octubre_00u/uek4neVNWyxE/170126
 
 #EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="Perú", América TV HD
-http://castlempire.site:8080/UserTest2Octubre_00t/bqCs7jw4KQJa/170105
+http://castlempire.site:8080/UserTest2Octubre_00u/bqCs7jw4KQJa/170105
 #EXTINF:-1 tvg-id="" tvg-name="America TV FHD" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="Perú",América TV FHD
-http://castlempire.site:8080/UserTest3Octubre_00t/FskXxRJQ3Ys7/207528
+http://castlempire.site:8080/UserTest3Octubre_00u/FskXxRJQ3Ys7/207528
 
 #EXTINF:-1 tvg-id="Food Network.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="General",Food Network
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10.1; SM-G960N Build/LMY47I)
